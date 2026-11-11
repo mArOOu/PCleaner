@@ -1,0 +1,21 @@
+# Python virtual environment & bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User runtime data, snapshots, cleanup history, and logs
+data/
+*.log
+
+# Packaging / build artifacts
+build/
+dist/
+*.spec
+
+# Editor & OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
